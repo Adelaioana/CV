@@ -1,0 +1,211 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+/* right section styles */
+.right_section{
+    padding-left: 90px;
+    padding-right: 220px;
+    background-color:#FFFFFF;
+
+}
+.about-me_profession{
+    color: black;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 100px;
+
+}
+#personName{
+    font-style: normal;
+    font-weight: 550;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 30px;
+}
+.main_section{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+}
+.about-me_section{
+    padding-top: 15px;
+    padding-right: 15px;
+    color: black;
+    width: 400px;
+}
+.about-me_section p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.projects_section{
+    margin-top: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: black;
+}
+.block_title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color:black;
+    padding-top: 51px;
+}
+.projects_section ol,{
+    margin-left: -18px;
+}
+ol li, .bracket{
+    color: #000;
+    font-weight: 700;
+}
+.projects_item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    margin-left: 10px;
+
+}
+.projects_item a{
+    color: #595959;
+}
+.professional_trainings{
+    color: black;
+}
+.training_company{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: black;
+}
+.training_title{
+    color: #FB6D3A;
+}
+.training_period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color:#A8A8A8;
+}
+.training_list{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: -25px;
+    color: #595959;
+}
+.training_list li{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.work_section{
+    color: black;
+}
+.work_position{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.work_company{
+    color: #FB6D3A;
+}
+.work_period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color:#A8A8A8;
+}
+.work-experience_list{
+    padding-left: 15px;
+}
+.work-experience_list li{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.faculty_name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color:#FB6D3A;
+}
+.title-study{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    }
+    .period-study{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8
+    }
+/* sidebar styles */
+.sidebar-section{
+    background-color: #1E2939;
+    width: 370px;
+}
+.sidebar-section img{
+    margin-top: 40px;
+    width: 370px;
+}
+.sidebar-title{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px
+}
+.contact-section,.tech-skills_section,.soft-skills_list {
+    margin-left: 40px;
+}
+.contact-section_type{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+    color: #FFFFFF
+}
+.contacts-section_value{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color:blue;
+}
+.sidebar-list{
+    color:#FB6D3A;
+    padding-left: 20px;
+}
+.sidebar-list span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color:#FFFFFF
+}
